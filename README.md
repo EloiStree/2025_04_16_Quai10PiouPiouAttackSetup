@@ -1,7 +1,7 @@
 # 2025_04_16_Quai10PiouPiouAttackSetup
 Setup package to install PiouPiou attaque tools at the Quai 10 workshop 2025 XR.
 
-
+Need: https://docs.unity3d.com/Packages/com.unity.probuilder@6.0/manual/index.html
 
 
 ```
@@ -15,6 +15,7 @@ git clone https://github.com/EloiStree/2025_04_15_KidToyOvniCode.git
 git clone https://github.com/EloiStree/2025_04_13_TagMono.git
 git clone https://github.com/EloiStree/2025_04_02_FacadePrimitiveValueRelay.git
 git clone https://github.com/EloiStree/OpenUPM_DeveloperNote.git
+
 
 
 
