@@ -13,3 +13,4 @@ Setup package to install PiouPiou attaque tools at the Quai 10 workshop 2025 XR.
     "be.elab.wheelshipforfun": "https://github.com/EloiStree/2025_04_14_WheelShipForFun.git",
 
 ```
+https://github.com/EloiStree/2025_04_11_CharleroiQuestXR/blob/main/ToDoToday.md
